@@ -56,5 +56,8 @@ Right: Jaccard Coefficient curves (training vs. validation) on a log scale.
 
 Enables early visual detection of underfitting, overfitting, or training instability.
 
+![image](https://github.com/user-attachments/assets/1160fd48-0c58-466c-b20c-fdf9b952b3bd)
+
+![image](https://github.com/user-attachments/assets/95432f3f-5b81-4076-8711-3a262eac71b4)
 
 ![image](https://github.com/user-attachments/assets/e89bffaf-d6c6-4733-aaf7-a14d8b461cd9)
